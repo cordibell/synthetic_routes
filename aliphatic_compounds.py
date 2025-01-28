@@ -22,3 +22,6 @@ aliphatic_compounds = {
      "Hydroxynitrile" : {"Carboxylic acid" : "Acid hydrolysis/heat", "Amine" : "H2/Ni"}
     }
 
+def how_many_steps():
+    num_steps = int(input("How many steps would you like there to be?"))
+    
